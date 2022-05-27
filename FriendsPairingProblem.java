@@ -1,4 +1,4 @@
-class Solution {
+/* class Solution {
     public long countFriendsPairings(int n) {
         long[] dp = new long[n + 1];
         // return friends_recursive(n);
@@ -42,4 +42,5 @@ class Solution {
         long pair = friends_recursive(n - 2) * (n - 1);
         return single + pair;
     }
-}
+} 
+*/
